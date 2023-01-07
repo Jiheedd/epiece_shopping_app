@@ -1,0 +1,232 @@
+{
+  "project_info": {
+    "project_number": "978512307",
+    "project_id": "epiece-30341",
+    "storage_bucket": "epiece-30341.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978512307:android:770f0c666c9d155c29c3c6",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978512307-687a0bc5n4kepoftt1fjd0l90sgufvs1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ecommerce",
+            "certificate_hash": "0cb92eaa9e1ed43fe63c3a56b2f11ca15746ad56"
+          }
+        },
+        {
+          "client_id": "978512307-d4qr5l23ie40ec1nkq5jubu8bi9a6d43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7Om4MB-qhLMAjNExNDU4qhWhT4nZW_TA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978512307-d4qr5l23ie40ec1nkq5jubu8bi9a6d43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978512307:android:7264d41bd3fb2f7b29c3c6",
+        "android_client_info": {
+          "package_name": "com.example.epiece"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978512307-n0eea07p403g93qpnekub4el4g96ljb2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.epiece",
+            "certificate_hash": "0cb92eaa9e1ed43fe63c3a56b2f11ca15746ad56"
+          }
+        },
+        {
+          "client_id": "978512307-d4qr5l23ie40ec1nkq5jubu8bi9a6d43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7Om4MB-qhLMAjNExNDU4qhWhT4nZW_TA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978512307-d4qr5l23ie40ec1nkq5jubu8bi9a6d43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978512307:android:b2c2adbcb9d2835929c3c6",
+        "android_client_info": {
+          "package_name": "com.example.epiece_shopping_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978512307-g2st0hr53coggv8edk4bu8opdcba7mfu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.epiece_shopping_app",
+            "certificate_hash": "0cb92eaa9e1ed43fe63c3a56b2f11ca15746ad56"
+          }
+        },
+        {
+          "client_id": "978512307-d4qr5l23ie40ec1nkq5jubu8bi9a6d43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7Om4MB-qhLMAjNExNDU4qhWhT4nZW_TA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978512307-d4qr5l23ie40ec1nkq5jubu8bi9a6d43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978512307:android:207550c7959cf58f29c3c6",
+        "android_client_info": {
+          "package_name": "com.example.shopping_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978512307-kekabkh903qg79u2vven2g0fmh9a2ud4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shopping_app",
+            "certificate_hash": "0cb92eaa9e1ed43fe63c3a56b2f11ca15746ad56"
+          }
+        },
+        {
+          "client_id": "978512307-d4qr5l23ie40ec1nkq5jubu8bi9a6d43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7Om4MB-qhLMAjNExNDU4qhWhT4nZW_TA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978512307-d4qr5l23ie40ec1nkq5jubu8bi9a6d43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978512307:android:0a3d101406a9a33229c3c6",
+        "android_client_info": {
+          "package_name": "com.lekwacious.shopping_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978512307-ikju1e1c89n7ts6rdous0fql0mpof10k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lekwacious.shopping_app",
+            "certificate_hash": "0cb92eaa9e1ed43fe63c3a56b2f11ca15746ad56"
+          }
+        },
+        {
+          "client_id": "978512307-d4qr5l23ie40ec1nkq5jubu8bi9a6d43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7Om4MB-qhLMAjNExNDU4qhWhT4nZW_TA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978512307-d4qr5l23ie40ec1nkq5jubu8bi9a6d43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978512307:android:0e18f69f28fcfe0129c3c6",
+        "android_client_info": {
+          "package_name": "com.santosenoque.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978512307-o2q935h0l3mk5vt5b8kvp6pv834vaj28.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.santosenoque.untitled",
+            "certificate_hash": "0cb92eaa9e1ed43fe63c3a56b2f11ca15746ad56"
+          }
+        },
+        {
+          "client_id": "978512307-d4qr5l23ie40ec1nkq5jubu8bi9a6d43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7Om4MB-qhLMAjNExNDU4qhWhT4nZW_TA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978512307-d4qr5l23ie40ec1nkq5jubu8bi9a6d43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
